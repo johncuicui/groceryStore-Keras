@@ -1,5 +1,5 @@
 
-# Grocery Store Image classification with Keras
+# Grocery Store Image Classification with Keras
 This repository contains a classification with Keras and deep learning on [grocery store image dataset](https://github.com/marcusklasson/GroceryStoreDataset). This dataset not only contains a large volume of natural images but also includes the corresponding information. We reorganize the dataset because our aim is to build a simple classification model。Then we fine-tune the DenseNet-169 for 100 epochs on our dataset. 
 ## down the grocery store image dataset
 It is available at https://github.com/marcusklasson/GroceryStoreDataset.
@@ -18,7 +18,7 @@ The classification accuracy from fine-tuned DenseNet-169 is 0.98.
 ![Instance Segmentation Sample](assets/show/plot.png)
 ## predict
 ```
---model output/activity.model --labels output/lb.pickle --image assets/Granny-Smith.jpg
+--model output/activity.model --labels output/lb.pickle --image assets/pic/Granny-Smith.jpg
 ```
 <p align="Center">
   <img src="assets/show/predict1.jpg" width="260" title="hover text">
