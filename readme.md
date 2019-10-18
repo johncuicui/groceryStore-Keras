@@ -9,7 +9,7 @@ build_dataset ----dataset=/path to grocery store image dataset
 ```
 There are 81.
 
-![Instance Segmentation Sample](assets/show/store.jpg)
+![Instance Segmentation Sample](assets/show/Store.jpg)
 ## train
 ```
 --dataset dataset --model output/activity.model --label-bin output/lb.pickle --plot output/plot.png --epochs 100
