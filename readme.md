@@ -21,13 +21,13 @@ The dataset consists of 5125 images from 81 classes.The diagram below is the thu
 --model output/activity.model --labels output/lb.pickle --image assets/Granny-Smith.jpg
 ```
 <p align="Center">
-  <img src="assets/show/predict1.jpg" width="200" title="hover text">
-  <img src="assets/show/predict2.jpg" width="200" title="hover text">
-  <img src="assets/show/predict2.jpg" width="200" title="hover text">
+  <img src="assets/show/predict1.jpg" width="300" title="hover text">
+  <img src="assets/show/predict2.jpg" width="300" title="hover text">
+  <img src="assets/show/predict2.jpg" width="300" title="hover text">
 </p>
 <p align="Center">
-  <img src="assets/show/predict3.jpg" width="200" title="hover text">
-  <img src="assets/show/predict4.jpg" width="200" title="hover text">
-  <img src="assets/show/predict2.jpg" width="200" title="hover text">
+  <img src="assets/show/predict3.jpg" width="300" title="hover text">
+  <img src="assets/show/predict4.jpg" width="300" title="hover text">
+  <img src="assets/show/predict2.jpg" width="300" title="hover text">
 </p>
 
