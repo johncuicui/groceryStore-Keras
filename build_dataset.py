@@ -1,5 +1,6 @@
+
 # USAGE
-# python build_dataset.py
+# python build_dataset.py --dataset D:\DLDataset\GroceryStoreDataset-master\dataset
 
 # import the necessary packages
 from imutils import paths

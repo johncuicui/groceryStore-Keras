@@ -1,6 +1,6 @@
 
 # USAGE
-# python predict.py --model output/activity.model --labels output/lb.pickle --image assets/Yellow-Onion.jpg
+# python predict.py --model output/activity.model --labels output/lb.pickle --image assets/pic/Yellow-Onion.jpg
 
 # import the necessary packages
 from keras.models import load_model
