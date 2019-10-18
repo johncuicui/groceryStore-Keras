@@ -8,6 +8,7 @@ Down the grocery store image dataset.It is available at https://github.com/marcu
 ```
 build_dataset ----dataset=/path to grocery store image dataset
 ```
+
 ![Instance Segmentation Sample](assets/show/store.jpg)
 ##train
 ```
@@ -20,11 +21,11 @@ build_dataset ----dataset=/path to grocery store image dataset
 --model output/activity.model --labels output/lb.pickle --image assets/Granny-Smith.jpg
 ```
 <p align="center">
-  <img src="assets/show/predict1.jpg" width="150" title="hover text">
-  <img src="assets/show/predict2.jpg" width="150" title="hover text">
+  <img src="assets/show/predict1.jpg" width="300" title="hover text">
+  <img src="assets/show/predict2.jpg" width="300" title="hover text">
 </p>
 <p align="center">
-  <img src="assets/show/predict3.jpg" width="150" title="hover text">
-  <img src="assets/show/predict4.jpg" width="150" title="hover text">
+  <img src="assets/show/predict3.jpg" width="300" title="hover text">
+  <img src="assets/show/predict4.jpg" width="300" title="hover text">
 </p>
 
