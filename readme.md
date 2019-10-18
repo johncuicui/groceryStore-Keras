@@ -7,9 +7,9 @@ Down the grocery store image dataset.It is available at https://github.com/marcu
 ```
 build_dataset ----dataset=/path to grocery store image dataset
 ```
-There are 81.
+The dataset consists of 5125 images from 81 classes.The diagram below is the thumbnails of all classes.
 
-![Instance Segmentation Sample](assets/show/Store.jpg)
+![Instance Segmentation Sample](assets/show/store2.jpg)
 ## train
 ```
 --dataset dataset --model output/activity.model --label-bin output/lb.pickle --plot output/plot.png --epochs 100
@@ -20,12 +20,12 @@ There are 81.
 ```
 --model output/activity.model --labels output/lb.pickle --image assets/Granny-Smith.jpg
 ```
-<p align="left">
-  <img src="assets/show/predict1.jpg" width="300" title="hover text">
-  <img src="assets/show/predict2.jpg" width="300" title="hover text">
+<p align="Center">
+  <img src="assets/show/predict1.jpg" width="400" title="hover text">
+  <img src="assets/show/predict2.jpg" width="400" title="hover text">
 </p>
-<p align="left">
-  <img src="assets/show/predict3.jpg" width="300" title="hover text">
-  <img src="assets/show/predict4.jpg" width="300" title="hover text">
+<p align="Center">
+  <img src="assets/show/predict3.jpg" width="400" title="hover text">
+  <img src="assets/show/predict4.jpg" width="400" title="hover text">
 </p>
 
