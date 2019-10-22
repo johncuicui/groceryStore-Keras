@@ -1,6 +1,6 @@
 
 # Grocery Store Image Classification with Keras
-This repository contains a classification with Keras and deep learning on [grocery store image dataset](https://github.com/marcusklasson/GroceryStoreDataset). This dataset not only contains a large volume of natural images but also includes the corresponding information. We reorganize the dataset because our aim is to build a simple classification model。Then we fine-tune the DenseNet-169 for 100 epochs on our dataset. 
+This repository contains a classification with Keras and deep learning on [grocery store image dataset](https://github.com/marcusklasson/GroceryStoreDataset). This dataset not only contains a large volume of natural images but also includes the corresponding information. We reorganize the dataset because our aim is to build a simple classification model. Then we fine-tune the DenseNet-169 for 100 epochs on our dataset. 
 ## down the grocery store image dataset
 It is available at https://github.com/marcusklasson/GroceryStoreDataset.
 ## build dataset
